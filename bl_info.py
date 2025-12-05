@@ -1,6 +1,7 @@
+# -*- coding: utf-8 -*-
 bl_info = {
     "name": "LowHigh Renamer Extended",
-    "author": "Natasha",
+    "author": "Insaanesh",
     "version": (1, 2, 0),
     "blender": (5, 0, 0),
     "location": "View3D > Sidebar > LowHigh",
