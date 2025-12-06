@@ -9,3 +9,5 @@ A Blender addon for managing LOW/HIGH poly pipelines, bake prep, naming, copying
 3. Press *Install* and select the ZIP  
 4. Enable the addon in the list  
 5. Panel appears in **N-panel → LowHigh**
+
+PS: I'm not a programmer and I don't know how to write codes. This was done using Chat gpt.
